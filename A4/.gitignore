@@ -1,0 +1,19 @@
+# Ignore cache
+*__pycache__/*
+*.cache*
+
+# Ignore mac directory files
+.DS_Store
+
+# Ignore vscode files
+.vscode
+
+# Ignore .pkl data folder
+data
+
+# Ignore Virtural Environment
+env
+
+# Ignore the answer file
+A3_ans.py
+A3.ipynb
