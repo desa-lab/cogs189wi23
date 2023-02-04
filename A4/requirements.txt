@@ -1,0 +1,6 @@
+scipy
+tqdm
+numpy
+sklearn
+pyriemann
+matplotlib
